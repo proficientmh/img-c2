@@ -1,0 +1,15 @@
+@media (max-width:1164px) {}
+
+@media (max-width:991px) {
+    .container img {
+        width: 70%;
+    }
+}
+
+@media (max-width:767px) {}
+
+@media(max-width:576px) {
+    .container img {
+        width: 100%;
+    }
+}
